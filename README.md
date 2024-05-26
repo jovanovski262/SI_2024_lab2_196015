@@ -1,5 +1,6 @@
 Даниел Јовановски, 196015
 
+<hr>
 
 <b>Control Flow Graph</b>
 
