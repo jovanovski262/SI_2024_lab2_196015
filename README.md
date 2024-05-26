@@ -21,28 +21,11 @@ E - N + 2 = 7
 
 <b>Тест случаи според критериумот Every Branch</b>
 
+ <img width="632" alt="EveryBranchTable" src="https://github.com/jovanovski262/SI_2024_lab2_196015/assets/60225356/b3e7b895-5416-48d3-b72d-dd3bfe5a89d3">
 
-A - B	*	*	*	*	*	*	*
-B - R	*						
-B - C			*	*	*	*	*
-C - D		*	*	*	*	*	*
-D - E		*	*	*	*		
-D - O		*				*	*
-O - P		*					
-O - Q				*		*	*
-E - F				*	*	*	*
-F - G				*	*	*	*
-E - G		*	*	*			
-G - H		*				*	*
-G - R			*				
-H - I		*		*	*	*	*
-H - J		*		*		*	*
-I - R					*		
-I - H		*				*	*
-J - K		*					
-J - L						*	*
-K - M 		*					
-L - M 						*	*
-M - N 							*
-M - D		*		*			
-N - D							*<img width="485" alt="image" src="https://github.com/jovanovski262/SI_2024_lab2_196015/assets/60225356/1b0e96cc-54e7-4d81-91f5-38c24670f00d">
+
+<hr>
+
+<b>Тест случаи според критериумот Multiple Condition</b>
+
+<img width="616" alt="MultipleConditionTable" src="https://github.com/jovanovski262/SI_2024_lab2_196015/assets/60225356/39ebc878-060b-4dba-874f-e138a639a6b1">
